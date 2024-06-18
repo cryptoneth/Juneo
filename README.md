@@ -25,7 +25,7 @@ After=network.target
 [Service]
 User=$USER
 Type=simple
-ExecStart=/root/juneogo-binaries/juneogo
+ExecStart=/root/juneogo-binaries/juneogo --config-file="$HOME/juneogo-binaries/config.json"
 Restart=on-failure
 LimitNOFILE=65535
 

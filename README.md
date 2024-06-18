@@ -310,5 +310,20 @@ Blockchain
 - id: 2LxhUB7z7yxvBkHiiwp8MrALgy7rka3y6MriL2JAeX858wUK5D
 
 
+چک کردن سلامت نود :
+
+```
+curl -H 'Content-Type: application/json' --data '{
+    "jsonrpc":"2.0",
+    "id"     :1,
+    "method" :"health.health",
+    "params": {
+        "tags": ["11111111111111111111111111111111LpoYY"]
+    }
+}' 'http://IP:9650/ext/health' 
+```
+
+جای IP ایپی سرور رو بذارید
+
 
 

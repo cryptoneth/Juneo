@@ -43,6 +43,7 @@ systemctl enable juneod
 systemctl start juneod
 systemctl status juneod
 ```
+اینجا کنترل سی بزنید خارج شید
 
 
 Wait for synchronization.

@@ -92,9 +92,16 @@ curl -X POST --data '{
 
 Copy the value for the nodeID, publicKey, and proofOfPossession from the response.
 
-Log into mcnwallet.io.
+فرم رو پر کنید
+https://juneo.com/forms
 
-Go to Juneo Discord > fucet.
+یه ولت بسازید
+
+Log into mcnwallet.io
+
+از دیسکورد فاست بگیرید
+
+[Go to Juneo Discord](https://discord.com/invite/juneo) > fucet.
 Create a ticket to receive JUNE token for self-staking.
 
 Use JUNE-Chain wallet:

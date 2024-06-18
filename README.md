@@ -222,6 +222,7 @@ systemctl restart juneod
 ```
 
 ```
+cd
 nano ./juneojs-examples/src/supernet/createChain.ts
 ```
 مقادیر زیر رو جایگذاری کنید

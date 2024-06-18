@@ -3,6 +3,8 @@
 sudo apt-get update && sudo apt-get upgrade -y
 timedatectl
 timedatectl set-ntp on 
+```
+```
 sudo apt install git docker.io docker-compose -y
 ```
 

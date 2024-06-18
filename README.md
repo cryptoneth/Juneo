@@ -1,4 +1,7 @@
 # Juneo
+
+
+*** فقط اوبونتو 22 . رم 16 گیگ . 3 یا 4 هسته . 160 تا 300 گیگ هارد
 ```
 sudo apt-get update && sudo apt-get upgrade -y
 timedatectl
@@ -59,6 +62,11 @@ curl -X POST --data '{
     }
 }' -H 'content-type:application/json;' 127.0.0.1:9650/ext/info
 ```
+
+اینجا حالت فالس باید به 
+True
+
+تبدیل شه . دقت کنید رم 16 گیگ نیاز هست 
 
 خروجی باید همچین چیزی باشه :
 {“jsonrpc”:”2.0",”result”:{“isBootstrapped”:true},”id”:1}

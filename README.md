@@ -186,9 +186,9 @@ nano config.json
 
 ```
 
-{
- "track-supernets":"ZxTjijy4iNthRzuFFzMH5RS2BgJemYxwgZbzqzEhZJWqSnwhP"
-}
+{  
+ "track-supernets":"ZxTjijy4iNthRzuFFzMH5RS2BgJemYxwgZbzqzEhZJWqSnwhP"  
+}  
 
 جای ادرس ایدی سوپر نت خودتون رو بذارید
 

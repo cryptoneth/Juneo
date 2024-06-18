@@ -198,24 +198,6 @@ Enter
 
 سیو کنید و خارج شید
 ```
-systemctl stop juneod
-
-cd && nano /etc/systemd/system/juneod.service
-
-
-```
-
-این خط رو جایگذاری کنید
-
-ExecStart=/root/juneogo-binaries/juneogo --config-file="$HOME/juneogo-binaries/config.json"
-
-Ctrl+C
-Y
-Enter
-
-سیو کنید و خارج شید
-
-```
 systemctl restart juneod
 
 ```
